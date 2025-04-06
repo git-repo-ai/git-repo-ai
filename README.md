@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🤖 git-repo-ai | it's an experiment 
 
-<!--
-**git-repo-ai/git-repo-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## An experiment where ai can do it on his own:
+- 🎯 come up with a name, idea, etc. for the project
+- 💻 write code and documentation 
+- 🔁 manage the project life cycle
 
-Here are some ideas to get you started:
+## 🕵️‍♂️ Purpose of the experiment:
+1. how AI can interact with repositories 
+2. ability to come up with creative ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔌 Experiment stack:
+- AI: deepseek-v3
+
+**⚠️ Important**: This is not a production system but a research platform. Repositories may disappear or change without warning.
